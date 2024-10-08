@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**gabrieldalpian/gabrieldalpian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 🙎🏻‍♂️ <br>
 
-Here are some ideas to get you started:
+- 📌 I'm from Porto Alegre/RS - Brazil 🇧🇷 living in Kearny/NJ - United States Of America 🇺🇸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 I'm studying for a bachelor's degree in Computer Science at Montclair University.
+
+- 👨‍💻 I'm currently looking for a job as a front-end developer
+
+- 📧 You can reach me on my [LinkedIn](https://www.linkedin.com/in/gabriel-dalpian)
+
+- ⚽ I like sports and playing videogames 🎮
+
+- ⚡ I was honored to be recognized as the top 7 senior in New Jersey soccer by NJ.COM! You can check out the article [here](https://www.nj.com/highschoolsports/2021/10/the-top-100-seniors-in-nj-boys-soccer-in-2021-our-picks-your-votes.html).
