@@ -5,7 +5,7 @@
 
 - 📚 I'm studying for a bachelor's degree in Computer Science at Montclair University.
 
-- 👨‍💻 I'm currently looking for a job as a front-end developer
+- 👨‍💻 I'm currently looking for a job as a Software Engineer
 
 - 📧 You can reach me on my [LinkedIn](https://www.linkedin.com/in/gabriel-dalpian)
 
