@@ -7,7 +7,7 @@
 
 - 👨‍💻 I'm currently looking for a job as a Software Engineer
 
-- 📧 You can reach me on [LinkedIn](https://www.linkedin.com/in/gabrieldalpian) or through my [Email](gabrieldalpian1227@gmail.com)
+- 📧 You can reach me on [LinkedIn](https://www.linkedin.com/in/gabrieldalpian) or through my [Email](mailto:gabrieldalpian1227o@gmail.com)
 
 - ⚽ I like sports and playing videogames 🎮
 
