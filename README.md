@@ -14,8 +14,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldalpian&langs_count=10&layout=compact&theme=dark)
 </div>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SQL](https://img.shields.io/badge/SQL-FF5733?style=for-the-badge&logo=mysql&logoColor=white&labelColor=FF5733)
 
 </div>
