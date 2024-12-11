@@ -3,7 +3,7 @@
 
 📌 I'm from Porto Alegre/RS - Brazil 🇧🇷 living in Kearny/NJ - United States Of America 🇺🇸
 
-📚 I'm studying for an associate's degree in Computer Science at Bergen Community College.
+📚 I'm studying for a bachelor's degree in Computer Science at New Jersey Institute of Technology
 
 👨‍💻 I'm currently looking for a job as a Software Engineer
 
