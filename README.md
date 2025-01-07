@@ -7,8 +7,6 @@
 
 📧 You can reach me on [LinkedIn](https://www.linkedin.com/in/gabrieldalpian) or through my [Email](mailto:gabrieldalpian1227@gmail.com)
 
-⚽ I like sports and playing videogames 🎮
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldalpian&langs_count=10&layout=compact&theme=dark)
 </div>
 
