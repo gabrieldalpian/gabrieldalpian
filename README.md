@@ -1,7 +1,7 @@
 
 ## About me 🙎🏻‍♂️ <br>
 
-📚 I'm studying for a bachelor's degree in Computer Science at New Jersey Institute of Technology
+📚 I'm studying for a bachelor's degree in Information Technology at New Jersey Institute of Technology
 
 👨‍💻 I'm currently looking for a job as a Software Engineer
 
