@@ -3,7 +3,7 @@
 
 📚 I'm studying for a bachelor's degree in Information Technology at New Jersey Institute of Technology
 
-👨‍💻 I'm currently looking for a job as a Software Engineer
+👨‍💻 I'm currently looking for an internship as a Software Engineer
 
 📧 You can reach me on [LinkedIn](https://www.linkedin.com/in/gabrieldalpian) or through my [Email](mailto:gabrieldalpian1227@gmail.com)
 
