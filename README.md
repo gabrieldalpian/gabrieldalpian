@@ -3,7 +3,7 @@
 
 📚 I'm studying for a bachelor's degree in Information Technology at New Jersey Institute of Technology
 
-👨‍💻 Software Engineer intern at Think Big Technology 
+👨‍💻 Software Engineer Intern at Think Big Technology 
 
 📧 You can reach me on [LinkedIn](https://www.linkedin.com/in/gabrieldalpian) or through my [Email](mailto:gabrieldalpian1227@gmail.com)
 
