@@ -7,8 +7,6 @@
 
 📧 You can reach me on [LinkedIn](https://www.linkedin.com/in/gabrieldalpian) or through my [Email](mailto:gabrieldalpian1227@gmail.com)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldalpian&layout=compact&theme=dark&cache_seconds=1800)
-
 ## 💻 Tech Stack:
 
 ### Languages:
