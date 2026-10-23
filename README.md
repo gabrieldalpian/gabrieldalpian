@@ -5,7 +5,7 @@
 
 👨‍💻 Software Engineer 
 
-📧 You can reach me on [LinkedIn](https://www.linkedin.com/in/gabrieldecastilhospedro) or through my [Email](mailto:dalpian74@gmail.com)
+📧 You can reach me on [LinkedIn](https://www.linkedin.com/in/gabrieldecastilhospedro) or through my [Email](mailto:74dalpian@gmail.com)
 
 ![Top Languages](https://github-readme-stats-rose-tau-44.vercel.app/api/top-langs/?username=gabrieldalpian&layout=compact&theme=tokyonight)
 
